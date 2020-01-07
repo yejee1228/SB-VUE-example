@@ -10,11 +10,16 @@
         <div>
           <h4>모델명: 벤쯔</h4> <br/>
           <h4>연식: 2020년 1월</h4> <br/>
+          <h4>주행거리 : 45250km</h4> <br/>
+          <h4>평균 주유주기 : 13일</h4> <br/>
+          <h4>평균 연비 : 9.12km/L</h4> <br/>
           <h4>마지막 정비일 : 2020년 1월 5일</h4> <br/>
         </div>
 			</div>
       <div class="modifyInfo">
-        <button>내 정보 수정하기</button><br/><br/><br/>
+        <button>회원 정보 수정하기</button>
+        <button>내차 정보 수정하기</button>
+				<br/><br/><br/>
         <button class="gasStation">주유소찾기</button>
         <button class="maintenance">정비소찾기</button>
       </div>
