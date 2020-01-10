@@ -1,4 +1,11 @@
 <template>
+<div>
+<link rel="stylesheet" href="https://www.kcar.com/resources/css/re_import.css?v=20191223103556">
+  <link rel="stylesheet" href="https://www.kcar.com/resources/css/plugin/selectric.css?v=20191223103556">
+  <link rel="stylesheet" type="text/css" href="https://www.kcar.com/resources/css/plugin/ion.rangeSlider.css">
+  <link rel="stylesheet" type="text/css" href="https://www.kcar.com/resources/css/plugin/ion.rangeSlider.skinHTML5.css">
+  <link rel="stylesheet" href="https://www.kcar.com/resources/css/plugin/uniform.css">
+  <link rel="stylesheet" href="https://www.kcar.com/resources/css/plugin/jquery.scrollbar.css">
 <div class="wrap">
 <div id="Rnewcontents">
 	<div class="layer_edit" id="layer_edit">
@@ -21,6 +28,7 @@
 			</div>
 		</div>
 	</div>
+</div>
 </div>
 </div>
 </template>

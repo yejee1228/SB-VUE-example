@@ -1,4 +1,12 @@
 <template>
+<div>
+<link rel="stylesheet" href="https://www.kcar.com/resources/css/re_import.css?v=20191223103556">
+  <link rel="stylesheet" href="https://www.kcar.com/resources/css/plugin/selectric.css?v=20191223103556">
+  <link rel="stylesheet" type="text/css" href="https://www.kcar.com/resources/css/plugin/ion.rangeSlider.css">
+  <link rel="stylesheet" type="text/css" href="https://www.kcar.com/resources/css/plugin/ion.rangeSlider.skinHTML5.css">
+  <link rel="stylesheet" href="https://www.kcar.com/resources/css/plugin/uniform.css">
+  <link rel="stylesheet" href="https://www.kcar.com/resources/css/plugin/jquery.scrollbar.css">
+
 <div class="login">
 			<div class="loginForm">
 				<h3><img src="https://www.kcar.com/resources/images/common/loginTit.gif" alt="로그인"></h3>
@@ -29,6 +37,7 @@
 				<p class="skjoin">아직 RPM 회원이 아니세요? <a href="/user/user_policyAgree.do">회원가입</a></p>
 			</div>
 		</div>
+</div>
 </template>
 <script></script>
 <style scoped>
